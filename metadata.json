@@ -1,0 +1,6 @@
+{
+  "name": "Best Buddies Dog Grooming - Bay Area & Pacifica",
+  "description": "Premium, gentle and affordable dog grooming & spa in Pacifica, CA serving pet owners across the San Francisco Bay Area.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
